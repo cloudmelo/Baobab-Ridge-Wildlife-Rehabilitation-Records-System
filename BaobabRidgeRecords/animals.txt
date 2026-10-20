@@ -1,0 +1,20 @@
+WR-0001|Thabo|African Penguin|4|85|Release-ready|Pre-Release Camp
+WR-0002|Simba|Lion|7|85|Recovered|Release Preparation
+WR-0003|Kiki|Meerkat|2|45|Critical|Veterinary Ward
+WR-0004|Zuri|Cheetah|5|91|Recovered|Release Preparation
+WR-0005|Bongo|Elephant|12|55|Recovering|Outdoor Enclosure
+WR-0006|Milo|Baboon|4|72|Recovering|Outdoor Enclosure
+WR-0007|Tala|Leopard|8|38|Critical|Veterinary Ward
+WR-0008|Nala|Hyena|6|67|Recovering|Outdoor Enclosure
+WR-0009|Jabu|Rhinoceros|15|88|Recovered|Release Preparation
+WR-0010|Luna|Zebra|3|23|Critical|Veterinary Ward
+WR-0011|Kovu|Lion|9|79|Recovering|Outdoor Enclosure
+WR-0012|Asha|Giraffe|11|94|Recovered|Release Preparation
+WR-0013|Rex|Wild Dog|5|48|Critical|Veterinary Ward
+WR-0014|Bella|Caracal|2|61|Recovering|Outdoor Enclosure
+WR-0015|Max|Buffalo|14|31|Critical|Veterinary Ward
+WR-0016|Theo|Honey Badger|4|82|Recovered|Release Preparation
+WR-0017|Ruby|African Penguin|6|58|Recovering|Outdoor Enclosure
+WR-0018|Storm|Eagle Owl|7|15|Critical|Veterinary Ward
+WR-0019|Shadow|Black-backed Jackal|5|76|Recovering|Outdoor Enclosure
+WR-0020|Sandy|Springbok|2|98|Recovered|Release Preparation
