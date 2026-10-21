@@ -1,0 +1,71 @@
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.Presentation_Layer.AddAnimalForm.resources
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.GenerateResource.cache
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfoInputs.cache
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfo.cs
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.CoreCompileInputs.cache
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\animals.txt
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.exe
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.deps.json
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.runtimeconfig.json
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\refint\BaobabRidgeRecords.dll
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.genruntimeconfig.cache
+C:\PRG272\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\ref\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\animals.txt
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.exe
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.deps.json
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.runtimeconfig.json
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.Presentation_Layer.AddAnimalForm.resources
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.GenerateResource.cache
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfoInputs.cache
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfo.cs
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\refint\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.genruntimeconfig.cache
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\ref\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRi.F0A3B4DC.Up2Date
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\animals.txt
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.exe
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.deps.json
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.runtimeconfig.json
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.Presentation_Layer.AddAnimalForm.resources
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.GenerateResource.cache
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfoInputs.cache
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfo.cs
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.CoreCompileInputs.cache
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\refint\BaobabRidgeRecords.dll
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.genruntimeconfig.cache
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\ref\BaobabRidgeRecords.dll
+C:\Users\nlego\Downloads\Baobab-Ridge-Wildlife-Rehabilitation-Records-System-feature-view-animals-fix - Copy\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRi.F0A3B4DC.Up2Date
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\animals.txt
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.exe
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.deps.json
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.runtimeconfig.json
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\bin\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.Presentation_Layer.AddAnimalForm.resources
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.GenerateResource.cache
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfoInputs.cache
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.AssemblyInfo.cs
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\refint\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.pdb
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRidgeRecords.genruntimeconfig.cache
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\ref\BaobabRidgeRecords.dll
+C:\Users\user-pc\Downloads\GroupVI8PM\Groupv8pm\BaobabRidgeRecords\obj\Debug\net8.0-windows\BaobabRi.F0A3B4DC.Up2Date

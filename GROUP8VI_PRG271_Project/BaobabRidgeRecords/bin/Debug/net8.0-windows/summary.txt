@@ -1,0 +1,16 @@
+BAOBAB RIDGE WILDLIFE REHABILITATION CENTRE
+ANIMAL SUMMARY REPORT
+Generated: 2026-10-20 23:57
+
+------------------------------------------------
+Total animals: 20
+Average age (years): 7,45
+Average recovery score: 64,15
+
+------------------------------------------------
+Animals per status:
+  Critical: 1
+  Serious: 3
+  Stable: 4
+  Recovering: 5
+  Release-Ready: 7
